@@ -16,4 +16,4 @@ This project is part of my *SkillCraft Technology Internship, where I developed 
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/sanjeev0048/Landing-page.git
+   git clone https:https://sanjeev0048.github.io/Landing-page/
