@@ -13,7 +13,19 @@ This project is part of my *SkillCraft Technology Internship, where I developed 
 - *CSS3* – Styling and responsive design  
 - *JavaScript (ES6)* – Interactivity and dynamic behavior  
 
-## 🚀 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://sanjeev0048.github.io/Landing-page/
+## 🚀 How to Use
+
+1. *Live Demo*  
+   You can directly view the project here:  
+   👉 [Live Demo](https://sanjeev0048.github.io/Landing-page/)
+
+2. *Run Locally*
+   - Clone the repository:
+     bash
+     git clone https://github.com/sanjeev0048/Landing-page.git
+     
+   - Navigate to the project folder:
+     bash
+     cd Landing-page
+     
+   - Open index.html in your browser to view the landing page.
